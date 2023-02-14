@@ -5,3 +5,5 @@ https://zenodo.org/record/5148542#.Y-vAB9LMJkg
 In addition, in this folder, we are providing datasets with computed features (i.e., we assume that, given the raw files, we used the statistical tests and scripts to compute the features). 
 
 These datasets are used in the main Jupyter Notebook. 
+
+Due to GitHub constraints, we provide them in .zip format, so you need to unzip them to obtain the csv files. 

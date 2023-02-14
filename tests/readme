@@ -1,0 +1,8 @@
+This folder contains a set of scripts and python files that are used to compute all the statistical tests. 
+
+Note that this scripts are just a guideline to compute and use the different features possible given the original binaries. Therefore, we assume that you have a local copy of the sp800 binaries as well as other sources.
+
+The files are tuned to skip most of the statistical tests, so use them as an auxiliary tool and modify them accordingly.
+
+For the sake of clarity, we assume in the Jupiter Notebook file of the main project that we have already computed the tests and obtained a summary of outcomes. 
+
